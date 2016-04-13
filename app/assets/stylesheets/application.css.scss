@@ -21,3 +21,17 @@
       width: 70%;
       margin: auto;
   }
+
+.carousel-img{
+  position: relative;
+  width: 100%;
+
+}
+
+.carousel-text{
+   position: absolute;
+   top: 50px;
+   width: 100%;
+   text-align: center;
+   color: white;
+}
